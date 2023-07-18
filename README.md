@@ -1,8 +1,9 @@
 # Getting Started with Create React App
 Proyecto para asignatura de software 2 2023, pagina web de trueques de bienes y servicios 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
 In the project directory, you can run:
 
