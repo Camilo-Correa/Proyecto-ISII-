@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Proyecto para asignatura de software 2 2023, pagina web de trueques de bienes y servicios 
 ## Available Scripts
 
 In the project directory, you can run:
