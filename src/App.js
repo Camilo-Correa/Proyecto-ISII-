@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <header>
         <Header />
-        <ProductosLista/>
+        <Producgit tosLista/>
       </header>
     </div>
   );
