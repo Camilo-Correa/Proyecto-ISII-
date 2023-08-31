@@ -1,0 +1,25 @@
+{
+    "configurations": [
+      {
+        "name": "ts-node-dev",
+        "type": "node",
+        "request": "launch",
+        "protocol": "inspector",
+        "cwd": "${workspaceRoot}",
+        "nodeVersionHint": 18,
+        "runtimeExecutable": "${workspaceRoot}/node_modules/.bin/ts-node-dev",
+        "args": [
+          "--inspect",
+          "--no-notify",
+          "--transpile-only",
+          "--respawn",
+          "${workspaceRoot}/src/server.ts"
+        ],
+        "console": "integratedTerminal",
+        "restart": true,
+        "env": {
+          "TZ": "Africa/Abidjan"
+        }
+      }
+    ]
+  }
