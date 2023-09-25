@@ -1,0 +1,21 @@
+.root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.paper {
+  padding: 16px;
+  max-width: 400px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.rootWithBackground {
+  background-image: url("/images/background.jpeg");
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
